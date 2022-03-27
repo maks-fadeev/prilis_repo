@@ -7,3 +7,5 @@ modify file 1
 the second modification
 
 the file after the conflict resolving
+
+I've added new branch
