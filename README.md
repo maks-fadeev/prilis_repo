@@ -9,3 +9,5 @@ the second modification
 the file after the conflict resolving
 
 I've added new branch
+
+Changes from repository 2
