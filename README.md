@@ -11,3 +11,5 @@ the file after the conflict resolving
 I've added new branch
 
 Changes from repository 2
+
+One more change from repository 2
